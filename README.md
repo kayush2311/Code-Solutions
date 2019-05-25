@@ -1,3 +1,3 @@
 # Code-Solutions
 
-This repository contain solutions of coding problems from compitions i have participated in.
+This repository contain solutions of coding problems from competitions i have participated in.
